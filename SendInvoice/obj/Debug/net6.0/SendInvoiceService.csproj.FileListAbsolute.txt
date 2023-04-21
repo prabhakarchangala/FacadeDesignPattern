@@ -1,0 +1,12 @@
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\bin\Debug\net6.0\SendInvoiceService.deps.json
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\bin\Debug\net6.0\SendInvoiceService.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\bin\Debug\net6.0\SendInvoiceService.pdb
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\obj\Debug\net6.0\SendInvoiceService.csproj.AssemblyReference.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\obj\Debug\net6.0\SendInvoiceService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\obj\Debug\net6.0\SendInvoiceService.AssemblyInfoInputs.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\obj\Debug\net6.0\SendInvoiceService.AssemblyInfo.cs
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\obj\Debug\net6.0\SendInvoiceService.csproj.CoreCompileInputs.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\obj\Debug\net6.0\SendInvoiceService.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\obj\Debug\net6.0\refint\SendInvoiceService.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\obj\Debug\net6.0\SendInvoiceService.pdb
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\SendInvoice\obj\Debug\net6.0\ref\SendInvoiceService.dll

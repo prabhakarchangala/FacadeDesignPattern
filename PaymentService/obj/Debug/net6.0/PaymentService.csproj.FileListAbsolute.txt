@@ -1,0 +1,12 @@
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\bin\Debug\net6.0\PaymentService.deps.json
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\bin\Debug\net6.0\PaymentService.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\bin\Debug\net6.0\PaymentService.pdb
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\obj\Debug\net6.0\PaymentService.csproj.AssemblyReference.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\obj\Debug\net6.0\PaymentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\obj\Debug\net6.0\PaymentService.AssemblyInfoInputs.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\obj\Debug\net6.0\PaymentService.AssemblyInfo.cs
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\obj\Debug\net6.0\PaymentService.csproj.CoreCompileInputs.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\obj\Debug\net6.0\PaymentService.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\obj\Debug\net6.0\refint\PaymentService.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\obj\Debug\net6.0\PaymentService.pdb
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\PaymentService\obj\Debug\net6.0\ref\PaymentService.dll

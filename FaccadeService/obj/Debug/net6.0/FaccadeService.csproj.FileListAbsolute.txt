@@ -1,0 +1,12 @@
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\bin\Debug\net6.0\FaccadeService.deps.json
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\bin\Debug\net6.0\FaccadeService.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\bin\Debug\net6.0\FaccadeService.pdb
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\obj\Debug\net6.0\FaccadeService.csproj.AssemblyReference.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\obj\Debug\net6.0\FaccadeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\obj\Debug\net6.0\FaccadeService.AssemblyInfoInputs.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\obj\Debug\net6.0\FaccadeService.AssemblyInfo.cs
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\obj\Debug\net6.0\FaccadeService.csproj.CoreCompileInputs.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\obj\Debug\net6.0\FaccadeService.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\obj\Debug\net6.0\refint\FaccadeService.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\obj\Debug\net6.0\FaccadeService.pdb
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\FaccadeService\obj\Debug\net6.0\ref\FaccadeService.dll

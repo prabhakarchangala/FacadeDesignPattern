@@ -1,0 +1,12 @@
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\bin\Debug\net6.0\ProductDetails.deps.json
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\bin\Debug\net6.0\ProductDetails.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\bin\Debug\net6.0\ProductDetails.pdb
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\obj\Debug\net6.0\ProductDetails.csproj.AssemblyReference.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\obj\Debug\net6.0\ProductDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\obj\Debug\net6.0\ProductDetails.AssemblyInfoInputs.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\obj\Debug\net6.0\ProductDetails.AssemblyInfo.cs
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\obj\Debug\net6.0\ProductDetails.csproj.CoreCompileInputs.cache
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\obj\Debug\net6.0\ProductDetails.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\obj\Debug\net6.0\refint\ProductDetails.dll
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\obj\Debug\net6.0\ProductDetails.pdb
+C:\Users\Prabhakara Changala\source\repos\FacadeDesignPattern\GetProductDetails\obj\Debug\net6.0\ref\ProductDetails.dll
